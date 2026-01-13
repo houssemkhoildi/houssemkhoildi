@@ -1,259 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Houssem Eddin Khoildi | DevOps / DevSecOps Engineer</title>
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  Hey! Nice to see you.
+</h1>
 
-  <!-- SEO -->
-  <meta name="description" content="DevOps / DevSecOps Engineer with 5+ years of experience in CI/CD, Kubernetes, Terraform, AWS & Azure. Secure and AI-driven cloud solutions."/>
-  <meta name="keywords" content="DevOps, DevSecOps, Kubernetes, Terraform, AWS, Azure, CI/CD, GitOps"/>
-  <meta name="author" content="Houssem Eddin Khoildi"/>
+<p align="center">
+  <b>Houssem Eddin Khoildi</b><br/>
+  DevOps / DevSecOps Engineer · 5+ Years Experience<br/>
+  Secure & AI-Driven CI/CD · Kubernetes · Terraform · GitOps · AWS & Azure
+</p>
 
-  <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet"/>
+<p align="center">
+  🌍 Tunisia · 💼 Open to Remote & Hybrid Roles
+</p>
 
-  <style>
-    :root {
-      --bg: #020617;
-      --card: #0f172a;
-      --text: #e5e7eb;
-      --muted: #94a3b8;
-      --accent: #22d3ee;
-      --accent2: #60a5fa;
-    }
+<p align="center">
+  🌐 <b>Portfolio:</b> <a href="https://houssemeddinkhoildi.netlify.app/">https://houssemeddinkhoildi.netlify.app</a>
+</p>
 
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: Inter, system-ui, sans-serif;
-      background: linear-gradient(180deg, #020617, #020617);
-      color: var(--text);
-    }
+---
 
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { text-decoration: underline; }
+## 🚀 About Me
 
-    .container {
-      max-width: 1100px;
-      margin: auto;
-      padding: 40px 20px;
-    }
+I’m a **DevOps / DevSecOps Engineer with 5+ years of experience** designing and operating  
+**secure, scalable, and cloud-native platforms**.
 
-    /* HERO */
-    .hero {
-      text-align: center;
-      padding: 80px 20px;
-      background:
-        radial-gradient(800px 400px at 20% 20%, rgba(34,211,238,.18), transparent),
-        radial-gradient(800px 400px at 80% 30%, rgba(96,165,250,.15), transparent);
-      border-bottom: 1px solid rgba(255,255,255,.08);
-    }
+I specialize in:
+- 🔐 **DevSecOps & Security-by-Design**
+- ⚙️ **CI/CD Automation (classic & AI-driven)**
+- ☸️ **Kubernetes & GitOps**
+- 🏗️ **Infrastructure as Code**
+- ☁️ **AWS & Azure cloud platforms**
 
-    .avatar {
-      width: 130px;
-      height: 130px;
-      border-radius: 18px;
-      border: 1px solid rgba(255,255,255,.2);
-      object-fit: cover;
-      margin-bottom: 20px;
-    }
+I enjoy bridging the gap between **development, infrastructure, and security** to deliver reliable systems at scale.
 
-    h1 {
-      font-size: clamp(32px, 5vw, 46px);
-      margin-bottom: 10px;
-    }
+---
 
-    .headline {
-      font-size: 18px;
-      color: var(--accent);
-      font-weight: 600;
-      margin-bottom: 20px;
-    }
+## 🛠️ Tech Stack
 
-    .hero p {
-      max-width: 760px;
-      margin: auto;
-      color: var(--muted);
-      font-size: 17px;
-      line-height: 1.7;
-    }
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5c4ee5?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 
-    .cta {
-      margin-top: 30px;
-      display: flex;
-      justify-content: center;
-      gap: 14px;
-      flex-wrap: wrap;
-    }
+### Security & Observability
+![DevSecOps](https://img.shields.io/badge/DevSecOps-111827?style=for-the-badge)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-    .btn {
-      padding: 12px 20px;
-      border-radius: 10px;
-      font-weight: 700;
-      border: 1px solid rgba(255,255,255,.15);
-    }
+### Development
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-    .btn-primary {
-      background: linear-gradient(90deg, var(--accent), var(--accent2));
-      color: #020617;
-      border: none;
-    }
+---
 
-    /* SECTIONS */
-    section {
-      margin-top: 70px;
-    }
+## 💼 Professional Experience (Highlights)
 
-    h2 {
-      text-align: center;
-      font-size: 28px;
-      margin-bottom: 30px;
-    }
+**DevOps / DevSecOps Engineer (Freelance) — Deevium**  
+- AI-powered CI/CD management platform  
+- Kubernetes & GitOps (ArgoCD, Helm)  
+- Multi-cloud orchestration (AWS & Azure)  
+- Zero-Trust security (JWT, RBAC, encryption)
 
-    /* CARDS */
-    .grid {
-      display: grid;
-      gap: 20px;
-    }
+**DevSecOps Engineer — TNShoppyy**  
+- Secure CI/CD pipelines (Jenkins, GitLab CI)  
+- Terraform-based IaC  
+- Automated security scanning  
+- ⬇️ 30% deployment time reduction
 
-    .grid-2 { grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); }
-    .grid-3 { grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+---
 
-    .card {
-      background: var(--card);
-      border: 1px solid rgba(255,255,255,.08);
-      border-radius: 16px;
-      padding: 20px;
-    }
+## 📌 Selected Projects
 
-    .card h3 {
-      margin-top: 0;
-      font-size: 18px;
-    }
+- **AI-Driven CI/CD & IaC Platform**  
+  SaaS generating Terraform & Ansible using AI with GitOps workflows
 
-    .card p {
-      color: var(--muted);
-      line-height: 1.6;
-    }
+- **Cloud-Native Infrastructure**  
+  High-availability AWS deployments using Terraform
 
-    /* TAGS */
-    .tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      justify-content: center;
-    }
+- **Observability & Monitoring Stack**  
+  Prometheus, Grafana, alerting, and performance optimization
 
-    .tag {
-      padding: 6px 10px;
-      font-size: 13px;
-      border-radius: 999px;
-      background: rgba(34,211,238,.15);
-      border: 1px solid rgba(34,211,238,.3);
-    }
+---
 
-    /* FOOTER */
-    footer {
-      margin-top: 80px;
-      padding: 30px;
-      text-align: center;
-      color: var(--muted);
-      border-top: 1px solid rgba(255,255,255,.08);
-    }
-  </style>
-</head>
+## 🌍 Connect With Me
 
-<body>
+<p align="center">
+  <a href="https://github.com/houssemkhoildi">
+    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/houssemeddinkhoildi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<!-- HERO -->
-<div class="hero">
-  <img class="avatar" src="https://media.licdn.com/dms/image/v2/D4D03AQGE7XBMHzG2Iw/profile-displayphoto-crop_800_800/B4DZu5Q_dOHgAI-/0/1768339804937" alt="Houssem"/>
-  <h1>Houssem Eddin Khoildi</h1>
-  <div class="headline">
-    DevOps / DevSecOps Engineer | 5+ Years Experience
-  </div>
+---
 
-  <p>
-    I design and operate <b>secure, scalable, and AI-driven CI/CD platforms</b>,
-    Kubernetes infrastructure, and cloud solutions using <b>AWS, Azure, Terraform, and GitOps</b>.
-    Passionate about automation, reliability, and security-by-design.
-  </p>
-
-  <div class="cta">
-    <a class="btn btn-primary" href="https://houssemeddinkhoildi.netlify.app/" target="_blank">🌐 Portfolio</a>
-    <a class="btn" href="https://www.linkedin.com/in/houssemeddinkhoildi/" target="_blank">LinkedIn</a>
-    <a class="btn" href="https://github.com/houssemkhoildi/" target="_blank">GitHub</a>
-  </div>
-</div>
-
-<div class="container">
-
-<!-- SPECIALTIES -->
-<section>
-  <h2>Core Expertise</h2>
-  <div class="tags">
-    <span class="tag">DevOps</span>
-    <span class="tag">DevSecOps</span>
-    <span class="tag">CI/CD</span>
-    <span class="tag">Kubernetes</span>
-    <span class="tag">Terraform</span>
-    <span class="tag">GitOps</span>
-    <span class="tag">AWS</span>
-    <span class="tag">Azure</span>
-    <span class="tag">Docker</span>
-    <span class="tag">Cloud Security</span>
-  </div>
-</section>
-
-<!-- EXPERIENCE -->
-<section>
-  <h2>Professional Experience</h2>
-  <div class="grid grid-2">
-    <div class="card">
-      <h3>DevOps / DevSecOps Engineer — Deevium</h3>
-      <p>
-        AI-driven CI/CD platform, multi-cloud orchestration (AWS & Azure),
-        Zero-Trust security (JWT, RBAC), Kubernetes & GitOps deployments.
-      </p>
-    </div>
-    <div class="card">
-      <h3>DevSecOps Engineer — TNShoppyy</h3>
-      <p>
-        Secure CI/CD pipelines with Jenkins & GitLab CI,
-        Terraform IaC, automated security scanning,
-        30% deployment time reduction.
-      </p>
-    </div>
-  </div>
-</section>
-
-<!-- PROJECTS -->
-<section>
-  <h2>Selected Projects</h2>
-  <div class="grid grid-3">
-    <div class="card">
-      <h3>AI-Driven CI/CD & IaC Platform</h3>
-      <p>Generates Terraform & Ansible using AI, GitOps with ArgoCD & Helm.</p>
-    </div>
-    <div class="card">
-      <h3>Cloud-Native Infrastructure</h3>
-      <p>High-availability AWS architecture with Terraform and security best practices.</p>
-    </div>
-    <div class="card">
-      <h3>Observability Stack</h3>
-      <p>Prometheus, Grafana, logging, alerting, and performance optimization.</p>
-    </div>
-  </div>
-</section>
-
-</div>
-
-<footer>
-  © 2026 — Houssem Eddin Khoildi · DevOps / DevSecOps Engineer · Tunisia
-</footer>
-
-</body>
-</html>
+<p align="center">
+  <i>“Automation is good, but automation with security and observability is better.”</i>
+</p>
